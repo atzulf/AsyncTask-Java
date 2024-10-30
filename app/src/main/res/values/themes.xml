@@ -2,7 +2,7 @@
     <!-- Base application theme. -->
     <style name="Base.Theme.AsyncTask" parent="Theme.Material3.DayNight">
         <item name="colorPrimary">@color/ijonom</item>
-        <item name="colorPrimaryDark">@color/kuneng</item>
+        <item name="colorSecondary">@color/kuneng</item>
     </style>
 
     <style name="Theme.AsyncTask" parent="Base.Theme.AsyncTask" />
