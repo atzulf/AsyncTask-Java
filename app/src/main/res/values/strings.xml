@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AsyncTask</string>
+    <string name="start_task">Klik untuk Mulai </string>
+    <string name="status">Status</string>
+    <string name="task_completed">Task telah selesai dijalankan</string>
+    <string name="compressing">Sedang Proses Loading %d %%</string>
+</resources>
