@@ -1,11 +1,11 @@
-# AsyncTask with Java Language 📱✨
+# AsyncTask with Java Language 📱🥶
 Belajar membuat Aplikasi Mobile untuk proses Async Task dan Background Thread
 
-# Deskripsi Aplikasi
+# Deskripsi
 Aplikasi Android Sederhana menggunakan Java yang terdapat contoh penerapan Background Thread & AsyncTask
 
 
-# Screenshoot Aplikasi
+# Tampilan
 ![sukuna](https://github.com/user-attachments/assets/21067c1f-c65f-43c5-bf77-a6b5b17537c4)
 
 
