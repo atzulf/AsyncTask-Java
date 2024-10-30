@@ -4,8 +4,9 @@ Belajar membuat Aplikasi Mobile untuk proses Async Task dan Background Thread
 # Deskripsi Aplikasi
 Aplikasi Android Sederhana menggunakan Java yang terdapat contoh penerapan Background Thread & AsyncTask
 
-# Screenshoot Aplikasi
 
+# Screenshoot Aplikasi
+![sukuna](https://github.com/user-attachments/assets/21067c1f-c65f-43c5-bf77-a6b5b17537c4)
 
 
 # Instalasi 
